@@ -10,9 +10,6 @@ import urllib.request
 import re
 import pandas as pd
 
-def extract_integers(value):
-    return int(''.join(re.findall('\d+',value)))
-
 def fetch_htmldata(url):
 
     try:
@@ -22,16 +19,6 @@ def fetch_htmldata(url):
     
     soup = BeautifulSoup(data, "html.parser")
     return soup
-
-def fetch_genres(soup):
-    
-    mydivs = soup.findAll("div", {"class": "meta-value"})
-
-    txt = mydivs[1].text
-    genres = re.findall(r'(?<!^)(?<!\. )[A-Z][a-z]+',txt)
-        
-    return genres
-
 
 def get_titles(soup):
     names = []
@@ -44,10 +31,6 @@ def get_titles(soup):
 
     return names
 
-
-movies_url = 'https://www.rottentomatoes.com/m/you_should_have_left'
-soup = fetch_htmldata(movies_url)
-genres = fetch_genres(soup)
 
 list_of_titles = []
 
