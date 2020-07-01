@@ -1,0 +1,113 @@
+	Title	Genres	Rating
+0	Play_It_to_the_Bone	['Action', 'Adventure', 'Comedy', 'Drama']	"R (Brutal Ring Violence; Strong Sexuality Including Nudity, Pervasive Language and Some Drug Content)
+                    "
+1	Supernova	['Action', 'Adventure', 'Science', 'Fiction', 'Fantasy']	"NR
+                    "
+2	Isnt_She_Great	['Comedy', 'Drama']	"R (adult situations/language)
+                    "
+3	Simpatico	['Drama', 'Mystery', 'Suspense']	"R (adult situations/language, sex)
+                    "
+4	Scream_3	['Horror']	"R (for strong horror violence and language)
+                    "
+5	Snow_Day	['Comedy', 'Kids', 'Family']	"PG (for brief mild peril and language)
+                    "
+6	The_Tigger_Movie	['Animation', 'Kids', 'Family']	"G
+                    "
+7	Hanging_Up	['Comedy', 'Drama']	"PG-13 (adult situations/language)
+                    "
+8	Pitch_Black	['Horror', 'Science', 'Fiction', 'Fantasy']	"R (for sci-fi violence and gore, and for language)
+                    "
+9	Erin_Brockovich	['Comedy', 'Drama']	"R (for language)
+                    "
+10	Final_Destination	['Horror', 'Mystery', 'Suspense']	"R (for violence and terror, and for language)
+                    "
+11	Here_on_Earth	['Drama', 'Romance']	"PG-13 (adult situations/language, sex)
+                    "
+12	Mr_Accident	['Comedy']	"PG-13 (adult situations/language)
+                    "
+13	Whatever_It_Takes	['Drama', 'Mystery', 'Suspense']	"NR
+                    "
+14	Price_of_Glory	['Drama']	"PG-13 (adult situations/language, violence)
+                    "
+15	Rules_of_Engagement	['Action', 'Adventure', 'Drama', 'Mystery', 'Suspense']	"R (for scenes of war violence, and for language)
+                    "
+16	American_Psycho	['Comedy', 'Drama', 'Horror', 'Mystery', 'Suspense']	"R (for strong violence, sexuality, drug use and language)
+                    "
+17	Keeping_the_Faith	['Comedy', 'Romance']	"PG-13 (for some sexuality and language)
+                    "
+18	Where_the_Money_Is	['Comedy', 'Drama', 'Mystery', 'Suspense']	"PG-13 (For some sexual content.)
+                    "
+19	U571	['Action', 'Adventure', 'Drama', 'Mystery', 'Suspense']	"PG-13 (for war violence)
+                    "
+20	Committed	['Drama']	"NR
+                    "
+21	The_Flintstones_in_Viva_Rock_Vegas	['Comedy']	"PG (adult situations/language)
+                    "
+22	Frequency	['Action', 'Adventure', 'Drama', 'Mystery', 'Suspense', 'Science', 'Fiction', 'Fantasy']	"PG-13 (for intense violence and disturbing images)
+                    "
+23	Timecode	['Comedy', 'Drama']	"R (for drug use, sexuality, language and a scene of violence)
+                    "
+24	Michael_Jordan_to_the_Max	['Documentary', 'Special', 'Interest', 'Sports', 'Fitness']	"G
+                    "
+25	Hamlet	['Drama', 'Television']	"PG-13
+                    "
+26	Held_Up	['Comedy']	"PG-13 (Language, violence and sensuality.)
+                    "
+27	Small_Time_Crooks	['Comedy', 'Drama']	"PG (for language)
+                    "
+28	Shanghai_Noon	['Action', 'Adventure', 'Comedy', 'Western']	"PG-13 (for action violence, some drug humor, language and sensuality)
+                    "
+29	Loves_Labours_Lost	['Comedy', 'Drama', 'Musical', 'Performing', 'Arts', 'Romance']	"PG (for sensuality and a brief drug reference)
+                    "
+30	Sunshine	['Drama', 'Science', 'Fiction', 'Fantasy']	"R (for violent content and language)
+                    "
+31	Jesus_Son	['Drama']	"R (for graphic drug use, strong language, sexuality and some violent images)
+                    "
+32	Shaft	['Action', 'Adventure', 'Comedy']	"R (for pervasive language, violence, sexual content, some drug material and brief nudity)
+                    "
+33	Titan_AE	['Animation', 'Kids', 'Family', 'Science', 'Fiction', 'Fantasy']	"PG (for action violence, mild sensuality and brief language)
+                    "
+34	Trixie	['Comedy', 'Drama', 'Mystery', 'Suspense']	"R (for some language, sexuality, and violence)
+                    "
+35	The_Perfect_Storm	['Action', 'Adventure', 'Drama']	"PG-13 (for language and scenes of peril)
+                    "
+36	Scary_Movie	['Comedy', 'Horror']	"R (for strong crude sexual humor, language, drug use and violence)
+                    "
+37	Ready_to_Run	['Kids', 'Family', 'Sports', 'Fitness']	"NR
+                    "
+38	Thomas_and_the_Magic_Railroad	['Kids', 'Family', 'Musical', 'Performing', 'Arts']	"G
+                    "
+39	What_Lies_Beneath	['Drama', 'Horror', 'Mystery', 'Suspense']	"PG-13 (for terror/violence, sensuality and brief language)
+                    "
+40	Hollow_Man	['Action', 'Adventure', 'Horror', 'Science', 'Fiction', 'Fantasy']	"R (for strong violence, language, and some sexuality/nudity)
+                    "
+41	Saving_Grace	['Comedy', 'Drama']	"PG
+                    "
+42	Space_Cowboys	['Action', 'Adventure', 'Comedy', 'Drama', 'Science', 'Fiction', 'Fantasy']	"PG-13 (for some language)
+                    "
+43	Bless_the_Child	['Drama', 'Horror', 'Mystery', 'Suspense']	"R (for violence, drug content and brief language)
+                    "
+44	Cecil_B_Demented	['Comedy']	"R (for strong crude sexual content, violence, language and drug use)
+                    "
+45	Godzilla_2000	['Action', 'Adventure', 'Art', 'House', 'International', 'Drama', 'Science', 'Fiction', 'Fantasy']	"PG (for monster violence and mild language)
+                    "
+46	Quints	['Comedy', 'Kids', 'Family', 'Television']	"NR
+                    "
+47	Sunset_Strip	['Action', 'Adventure', 'Drama']	"R
+                    "
+48	The_Watcher	['Drama']	"NR
+                    "
+49	Bait	['Art', 'House', 'International', 'Drama', 'Mystery', 'Suspense']	"NR
+                    "
+50	Crime_and_Punishment_in_Suburbia	['Art', 'House', 'International', 'Drama']	"R (brutal violence, strong sexuality, language, and substance abuse)
+                    "
+51	Duets	['Musical', 'Performing', 'Arts']	"NR
+                    "
+52	Into_the_Arms_of_Strangers_Stories_of_the_Kindertransport	['Documentary', 'Special', 'Interest']	"PG (for thematic elements)
+                    "
+53	The_Fantasticks	['Comedy', 'Drama', 'Musical', 'Performing', 'Arts', 'Romance']	"PG (for some bawdy carnival humor)
+                    "
+54	Woman_on_Top	['Comedy', 'Drama', 'Romance']	"R (for strong sexuality and language)
+                    "
+55	Best_in_Show	['Comedy']	"PG-13 (for language and sex-related material)
+                    "

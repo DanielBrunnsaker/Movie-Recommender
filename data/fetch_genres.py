@@ -19,7 +19,6 @@ def fetch_htmldata(url):
         print("An error occured while parsing soup")
     
     
-
 def fetch_genres(soup):
     
     try:
@@ -41,16 +40,17 @@ def replace_symbols(df):
 
 titles = pd.read_csv('movie_titles.txt')
 titles = replace_symbols(titles)
-data = pd.DataFrame()
-
+data = pd.DataFrame(columns = ['Title','Genres','Rating'])
 
 for idx,name in titles.iterrows():
     print(name[0])
     url = str('https://www.rottentomatoes.com/m/'+name[0])
-    soup = fetch_htmldata(url)
-    genres, rating = fetch_genres(soup)
+    try:
+        soup = fetch_htmldata(url)
+        genres, rating = fetch_genres(soup)
+    except:
+        continue
     
-    collection = [name[0],genres,rating]
-    pd.concat([data,collection])
+    data.loc[len(data)] = [name[0],genres,rating]
 
-
+data.to_csv('data.txt', sep = '\t')
